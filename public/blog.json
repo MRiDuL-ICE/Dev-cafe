@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "cover": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "cover": "https://i.ibb.co.com/gtntG2m/2.png",
         "title": "Building a RESTful API with Node.js",
         "author": "Alice Johnson",
-        "author_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "author_img": "https://i.ibb.co.com/gMYNz08/boy1.png",
         "posted_date": "2023-10-01",
         "reading_time": 8,
         "hashtags": ["#NodeJS", "#API", "#Backend"]
     },
     {
         "id": 2,
-        "cover": "https://images.pexels.com/photos/3861965/pexels-photo-3861965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "cover": "https://i.ibb.co.com/G33qvxC/1.jpg",
         "title": "Understanding React Hooks",
         "author": "Bob Smith",
-        "author_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "author_img": "https://i.ibb.co.com/94K1XmB/boy2.jpg",
         "posted_date": "2023-09-15",
         "reading_time": 6,
         "hashtags": ["#React", "#JavaScript", "#Frontend"]
     },
     {
         "id": 3,
-        "cover": "https://images.pexels.com/photos/3861966/pexels-photo-3861966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "cover": "https://i.ibb.co.com/8bjHKR5/3.png",
         "title": "Deploying Your First Application on AWS",
         "author": "Charlie Brown",
-        "author_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "author_img": "https://i.ibb.co.com/QQYgy1N/girl1.jpg",
         "posted_date": "2023-08-20",
         "reading_time": 10,
         "hashtags": ["#AWS", "#Deployment", "#Cloud"]
     },
     {
         "id": 4,
-        "cover": "https://images.pexels.com/photos/3861967/pexels-photo-3861967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "cover": "https://i.ibb.co.com/HFG5hkx/4.jpg",
         "title": "CSS Grid vs Flexbox: Which One to Use?",
         "author": "Diana Prince",
-        "author_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "author_img": "https://i.ibb.co.com/RHd8f3x/girl2.jpg",
         "posted_date": "2023-09-05",
         "reading_time": 7,
         "hashtags": ["#CSS", "#WebDesign", "#Frontend"]
     },
     {
         "id": 5,
-        "cover": "https://images.pexels.com/photos/3861968/pexels-photo-3861968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "cover": "https://i.ibb.co.com/GT20GZq/pexels-thisisengineering-3861969.jpg",
         "title": "Introduction to Full Stack Development",
         "author": "Ethan Hunt",
-        "author_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+        "author_img": "https://i.ibb.co.com/m9z9TdM/profile.png",
         "posted_date": "2023-10-10",
         "reading_time": 5,
         "hashtags": ["#FullStack", "#Development", "#WebDev"]
