@@ -45,7 +45,7 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/dev-cafe.git
+git clone https://github.com/MRiDuL-ICE/dev-cafe.git
 ```
 
 ## Install dependencies
