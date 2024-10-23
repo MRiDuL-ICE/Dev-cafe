@@ -29,6 +29,7 @@ Dev Cafe is a React-based blog site designed for tech enthusiasts to explore dev
 
 ## Project Structure
 
+```bash
 src/
 ├── components/
 │   ├── Blog.jsx        # Individual blog post display
@@ -38,6 +39,7 @@ src/
 │   └── Header.jsx      # Site header with profile
 └── assets/
     └── images/         # Project images
+```
 
 ## Getting Started
 
