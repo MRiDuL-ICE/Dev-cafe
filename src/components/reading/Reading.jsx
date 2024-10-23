@@ -9,7 +9,7 @@ const Reading = ({readingTime}) => {
 };
 
 Reading.propTypes = {
-    time: PropTypes.string,
+    readingTime: PropTypes.string,
 }
 
 export default Reading;
